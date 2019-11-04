@@ -18,5 +18,4 @@ Khách hàng có thể hủy đặt phòng (miên phí) nếu hủy trước ng�
   ĐỊNH HƯỚNG CÔNG VIỆC
   
 - Hoàn thành và chạy thử các module chính trong vòng 90 ngày
-- Thử nghiệm phần mềm ở 1 số máy tính trong khách sạn trong vòng 30 ngày
-- Hoàn thành triển khai trên toàn bộ hệ thống của khách sạn trong vòng 60 ngày
+- Thử nghiệm phần mềm ở 1 số máy tính trong khách sạn trong vòng 1 tháng
